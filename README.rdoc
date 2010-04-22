@@ -1,0 +1,13 @@
+== Example Rails3/Authlogic App
+
+Just a sample rails3 application that uses the authlogic library (http://github.com/binarylogic/authlogic).  This was created using the instructions found at http://github.com/binarylogic/authlogic_example, but tweaked for rails3.
+
+== Installation / Configuration
+
+1. 'bundle install' to get the authlogic gem
+
+2. 'rake db:migrate'
+
+3. 'rails server'
+
+4. visit http://localhost:3000
